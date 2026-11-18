@@ -53,7 +53,7 @@ export default function HeaderMetrics({
             <div>
               <div className="flex items-center gap-2.5">
                 <h1 className="text-lg md:text-xl font-bold tracking-tight text-white">
-                  Omnichannel AI Operations &amp; Support Hub
+                  AegisOps AI — Omnichannel Operations &amp; Support Hub
                 </h1>
                 <span className="px-2.5 py-0.5 text-[11px] font-semibold uppercase tracking-wider rounded-full bg-indigo-500/15 text-indigo-300 border border-indigo-500/30">
                   Mission Control v1.0

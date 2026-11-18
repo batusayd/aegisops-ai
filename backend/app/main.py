@@ -59,7 +59,7 @@ async def lifespan(app: FastAPI):
 
 
 app = FastAPI(
-    title="Omnichannel AI Operations & Support Hub API",
+    title="AegisOps AI — Omnichannel AI Operations & Support Hub API",
     description=(
         "Unified Production AI Platform combining Workflow A (Intelligent Support Triage, Qdrant RAG & "
         "Cryptographic HITL Approval Engine) and Workflow B (Real-Time Multilingual EN/PL/TR Community "

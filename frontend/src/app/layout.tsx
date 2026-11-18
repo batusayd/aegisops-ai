@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Omnichannel AI Operations & Support Hub | Mission Control",
+  title: "AegisOps AI | Omnichannel AI Operations & Support Hub",
   description:
     "Production AI Support Triage, Qdrant Vector RAG, Cryptographic HITL Approval Engine & Multilingual (PL/EN/TR) Community Automation.",
 };
